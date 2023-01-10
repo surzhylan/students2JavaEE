@@ -1,4 +1,1 @@
-# projectJavaEE
-# secondProjectJavaEE
-# ProjectSecondJavaEE
 # studentsJavaEE
